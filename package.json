@@ -1,0 +1,27 @@
+{
+  "name": "lab-17-TCP-Server",
+  "version": "1.0.0",
+  "description": "# LAB -",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jest --verbose",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyerthb/lab-17-TCP-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyerthb/lab-17-TCP-Server/issues"
+  },
+  "homepage": "https://github.com/heyerthb/lab-17-TCP-Server#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
