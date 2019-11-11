@@ -7,8 +7,10 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [submission PR](https://github.com/heyerthb/lab-17-TCP-Server/pull/1)
-* Deployment Not Required
+* [submission PR](https://github.com/heyerthb/lab-17-TCP-Server/pulls)
+  * [travis](https://travis-ci.com/heyerthb/lab-17-TCP-Server)
+  * [heroku](not required)
+  * [front-end](http://xyz.com) (when applicable)
 
 #### Documentation
 * [api docs](http://xyz.com) (API servers)
