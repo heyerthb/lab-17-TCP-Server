@@ -7,7 +7,7 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/heyerthb/lab-17-TCP-Server/pull/1)
 * Deployment Not Required
 
 #### Documentation
