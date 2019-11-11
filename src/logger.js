@@ -9,6 +9,11 @@ if(process.env.NODE_ENV !== 'test'){
   });
 }
 
+/** This function is our data handler
+ * @param {buffer} - buffered string
+ * @returns {String} - a log on the event called
+ */
+
 const handleData = (buffer) => {
   const data = JSON.parse(buffer);
   if (data.event === 'write_error' || data.event === 'read_error'){

@@ -2,7 +2,7 @@
 
 jest.mock('fs');
 
-const app = require('../app');
+const app = require('../src/app');
 
 describe('testing file function', () => {
 

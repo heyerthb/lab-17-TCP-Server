@@ -1,6 +1,6 @@
 'use stict';
 
-const logger = require('../logger');
+const logger = require('../src/logger');
 
 describe('testing logger', () => {
   it('should log properly', () => {
